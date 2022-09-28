@@ -4,5 +4,5 @@ Group name: group42
 
 Group members:
 - Zhiang Zhang
-- Zhang Zhiang
+- Zhang Zhig
 - Angzhi Zhang
